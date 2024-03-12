@@ -46,6 +46,8 @@ RegisterNumber: 21223230252*/
 ![RTL](https://github.com/YuvarajVB/BOOLEAN_FUNCTION_MINIMIZATION/assets/151488375/5479c516-f950-48ac-a1a8-4215f4c05db6)
 
 **Truth Table**
+
+
 ![truth_table](https://github.com/YuvarajVB/BOOLEAN_FUNCTION_MINIMIZATION/assets/151488375/c883d73e-36e7-45d8-b9e2-6c9b8ce5ad3e)
 
 
